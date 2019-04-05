@@ -1,0 +1,7 @@
+[0331/215645.593:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Er is geprobeerd toegang te krijgen tot een proces dat wordt afgesloten. (0xc000010a)
+[0331/215646.520:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0331/215646.521:ERROR:exception_snapshot_win.cc(98)] thread ID 5768 not found in process
+[0405/135433.793:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0405/135433.796:ERROR:exception_snapshot_win.cc(98)] thread ID 9072 not found in process
+[0405/135433.869:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0405/135433.887:ERROR:exception_snapshot_win.cc(98)] thread ID 9904 not found in process
